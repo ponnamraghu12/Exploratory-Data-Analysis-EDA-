@@ -1,4 +1,3 @@
-# Exploratory-Data-Analysis-EDA-
 # Exploratory Data Analysis (EDA) on Multiple Datasets
 
 ## Project Overview
